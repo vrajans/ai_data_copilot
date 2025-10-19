@@ -1,4 +1,9 @@
 streamlit
 pandas
+matplotlib
 openai
 python-dotenv
+langchain
+plotly
+fastapi
+uvicorn

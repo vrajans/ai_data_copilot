@@ -1,0 +1,12 @@
+GSAN              PYMT TRACE NO.                      INPUT AMOUNT    FCN                 STATUS                         DESTINATION
+CUSTOMER NUMBER    NO. CUSTOMER NAME                  FOREIGN EQUIV   INST/BRANCH       ACCOUNT NO.   TRANS DUE DATE     CUR COUNTRY
+OPTIONAL INFO          ORIG CONV RATE  RETN CONV RATE RETN AMOUNT     RETURN DESCRIPTION              RETURN CODE                   
+ 
+002992 0000            0032003204304317596900               1,237.00  0000        CO PYMT  COMPLETE                                 
+                    01 GRATITURE SOLUT                                0003 08802        000001067032  855   2024 OCT 30  CAD CAN    
+ 
+002992 0000            0032003204304315426065               1,037.00  0000        PAYMENT  COMPLETE                                 
+CHANDRASEN CPA CORP 00 BHAMBANI                                       0003 00364             1042126  200   2024 OCT 30  CAD CAN    
+ 
+002992 0000            0032003204304315426064                 200.00  0000        PAYMENT  COMPLETE                                 
+CHANDRASEN CPA CORP 01 BHAMBANI                                       0003 00364             1042126  200   2024 OCT 30  CAD CAN    

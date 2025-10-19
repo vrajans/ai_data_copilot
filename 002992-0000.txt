@@ -1,0 +1,67 @@
+ROYAL BANK                                                                                                                          
+REPORT NO.: 5211-09972  002992-0000       GLOBAL RECEIVABLES & DISBURSEMENTS SYSTEM                             PAGE:         1     
+RUN DATE:   2025 MAR 01                   PAYMENT DISTRIBUTION SERVICE                                 BUSINESS DATE:  2025 MAR 03  
+RUN TIME:   00:28:31                      ARCHIVED HISTORY PAYMENT RECORDS                                                          
+ 
+TOR HO GS C/M S&S SERVICE TEAM            ARCHIVED PAYMENTS VALUE DATED ON OR BEFORE:  2024 NOV 03                                  
+ 
+GSAN              PYMT TRACE NO.                      INPUT AMOUNT    FCN                 STATUS                         DESTINATION
+CUSTOMER NUMBER    NO. CUSTOMER NAME                  FOREIGN EQUIV   INST/BRANCH       ACCOUNT NO.   TRANS DUE DATE     CUR COUNTRY
+OPTIONAL INFO          ORIG CONV RATE  RETN CONV RATE RETN AMOUNT     RETURN DESCRIPTION              RETURN CODE                   
+ 
+002992 0000            0032003204304317596900               1,237.00  0000        CO PYMT  COMPLETE                                 
+                    01 GRATITURE SOLUT                                0003 08802        000001067032  855   2024 OCT 30  CAD CAN    
+ 
+002992 0000            0032003204304315426065               1,037.00  0000        PAYMENT  COMPLETE                                 
+CHANDRASEN CPA CORP 00 BHAMBANI                                       0003 00364             1042126  200   2024 OCT 30  CAD CAN    
+ 
+002992 0000            0032003204304315426064                 200.00  0000        PAYMENT  COMPLETE                                 
+CHANDRASEN CPA CORP 01 BHAMBANI                                       0003 00364             1042126  200   2024 OCT 30  CAD CAN    
+ROYAL BANK                                                                                                                          
+REPORT NO.: 5211-09972  002992-0000       GLOBAL RECEIVABLES & DISBURSEMENTS SYSTEM                             PAGE:         1     
+RUN DATE:   2025 FEB 22                   PAYMENT DISTRIBUTION SERVICE                                 BUSINESS DATE:  2025 FEB 24  
+RUN TIME:   00:25:45                      ARCHIVED HISTORY PAYMENT RECORDS                                                          
+ 
+TOR HO GS C/M S&S SERVICE TEAM            ARCHIVED PAYMENTS VALUE DATED ON OR BEFORE:  2024 OCT 27                                  
+ 
+GSAN              PYMT TRACE NO.                      INPUT AMOUNT    FCN                 STATUS                         DESTINATION
+CUSTOMER NUMBER    NO. CUSTOMER NAME                  FOREIGN EQUIV   INST/BRANCH       ACCOUNT NO.   TRANS DUE DATE     CUR COUNTRY
+OPTIONAL INFO          ORIG CONV RATE  RETN CONV RATE RETN AMOUNT     RETURN DESCRIPTION              RETURN CODE                   
+ 
+002992 0000            0032003204295308127836                 800.00  0000        CO PYMT  COMPLETE                                 
+                    01 GRATITURE SOLUT                                0003 08802        000001067032  855   2024 OCT 21  CAD CAN    
+ 
+002992 0000            0032003204295317858399                 800.00  8766        PAYMENT  COMPLETE                                 
+CHANDRASEN CPA CORP 00 BHAMBANI                                       0003 00364             1042126  200   2024 OCT 19  CAD CAN    
+ROYAL BANK                                                                                                                          
+REPORT NO.: 5211-09972  002992-0000       GLOBAL RECEIVABLES & DISBURSEMENTS SYSTEM                             PAGE:         1     
+RUN DATE:   2025 FEB 15                   PAYMENT DISTRIBUTION SERVICE                                 BUSINESS DATE:  2025 FEB 17  
+RUN TIME:   00:27:51                      ARCHIVED HISTORY PAYMENT RECORDS                                                          
+ 
+TOR HO GS C/M S&S SERVICE TEAM            ARCHIVED PAYMENTS VALUE DATED ON OR BEFORE:  2024 OCT 20                                  
+ 
+GSAN              PYMT TRACE NO.                      INPUT AMOUNT    FCN                 STATUS                         DESTINATION
+CUSTOMER NUMBER    NO. CUSTOMER NAME                  FOREIGN EQUIV   INST/BRANCH       ACCOUNT NO.   TRANS DUE DATE     CUR COUNTRY
+OPTIONAL INFO          ORIG CONV RATE  RETN CONV RATE RETN AMOUNT     RETURN DESCRIPTION              RETURN CODE                   
+ 
+002992 0000            0032003204292316822871               4,524.00  0000        CO PYMT  COMPLETE                                 
+                    01 GRATITURE SOLUT                                0003 08802        000001067032  855   2024 OCT 18  CAD CAN    
+ 
+002992 0000            0032003204292316596249               4,524.00  8764        PAYMENT  COMPLETE                                 
+CHANDRASEN CPA CORP 00 BHAMBANI                                       0003 00364             1042126  200   2024 OCT 18  CAD CAN    
+ROYAL BANK                                                                                                                          
+REPORT NO.: 5211-09972  002992-0000       GLOBAL RECEIVABLES & DISBURSEMENTS SYSTEM                             PAGE:         1     
+RUN DATE:   2025 FEB 08                   PAYMENT DISTRIBUTION SERVICE                                 BUSINESS DATE:  2025 FEB 10  
+RUN TIME:   00:20:53                      ARCHIVED HISTORY PAYMENT RECORDS                                                          
+ 
+TOR HO GS C/M S&S SERVICE TEAM            ARCHIVED PAYMENTS VALUE DATED ON OR BEFORE:  2024 OCT 13                                  
+ 
+GSAN              PYMT TRACE NO.                      INPUT AMOUNT    FCN                 STATUS                         DESTINATION
+CUSTOMER NUMBER    NO. CUSTOMER NAME                  FOREIGN EQUIV   INST/BRANCH       ACCOUNT NO.   TRANS DUE DATE     CUR COUNTRY
+OPTIONAL INFO          ORIG CONV RATE  RETN CONV RATE RETN AMOUNT     RETURN DESCRIPTION              RETURN CODE                   
+ 
+002992 0000            0032003204284313158759               9,000.00  0000        CO PYMT  COMPLETE                                 
+                    01 GRATITURE SOLUT                                0003 08802        000001067032  855   2024 OCT 10  CAD CAN    
+ 
+002992 0000            0032003204284308817003               9,000.00  8759        PAYMENT  COMPLETE                                 
+CHANDRASEN CPA CORP 03 BHAMBANI                                       0003 00364             1042126  200   2024 OCT 10  CAD CAN    
